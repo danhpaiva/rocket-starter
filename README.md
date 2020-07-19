@@ -2,7 +2,7 @@
 
 ## Sobre o curso
 
-O ojetivo do curso é conhecer a linguagem JavaScript e seus respectivos frameworks. 
+O ojetivo do curso é conhecer a linguagem JavaScript e seus respectivos frameworks.<br> 
 Ele é dividido em 5 módulos:<br>
 - JavaScript
 - JavaScript ES6
