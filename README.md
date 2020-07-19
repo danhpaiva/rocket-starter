@@ -2,7 +2,7 @@
 
 ## Sobre o curso
 
-O curso é dividido em 5 módulos:<br>
+O ojetivo do curso é conhecer a linguagem JavaScript e seus respectivos frameworks. Ele é dividido em 5 módulos:<br>
 - JavaScript
 - JavaScript ES6
 - NodeJS
