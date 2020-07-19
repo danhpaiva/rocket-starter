@@ -12,4 +12,4 @@ O curso é dividido em 5 módulos:<br>
 ## Ferramenta utilizada
 - Visual Studio Code
 
-## :lock: Desenvolvido por Daniel Paiva
+## :lock: Desenvolvido por <a href="https://www.linkedin.com/in/danhpaiva/">Daniel Paiva</a>
