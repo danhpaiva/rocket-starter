@@ -7,8 +7,8 @@ function pares(x, y) {
         }
         x++;
     }
+    document.write("<br>");
     document.write("Existem " + contador + " números pares neste intervalo.");
 };
 
-document.write("<br>");
 pares(32, 321);
