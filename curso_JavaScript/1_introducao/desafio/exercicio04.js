@@ -13,7 +13,6 @@ function experiencia(anos) {
 
 var anosEstudo = 7;
 
-experiencia(anosEstudo);
 console.log(experiencia(anosEstudo))
     // De 0-1 ano: Iniciante
     // De 1-3 anos: Intermediário
