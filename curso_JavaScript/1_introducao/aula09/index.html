@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curso JavaScript - Intervalo e Timeout</title>
+</head>
+
+<body>
+    <script>
+        function exibeAlgo() {
+            console.log('Hello World');
+        }
+
+        function exibeAlgoDepois(){
+            console.log("Daniel Paiva");
+        }
+
+        //Não abrir e fechar parênteses porque estamos referenciando a função acima
+        setInterval(exibeAlgo, 1000); //Execução a cada 1 segundo
+
+        setTimeout(exibeAlgoDepois, 5000); //Executa a função 5 segundos depois
+    </script>
+</body>
+
+</html>
