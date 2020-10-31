@@ -1,6 +1,6 @@
 # :rocket: Curso Starter da Rocketseat
 
-## Sobre o curso
+## :page_facing_up: Descrição
 
 O ojetivo do curso é conhecer a linguagem JavaScript e seus respectivos frameworks.<br> 
 Ele é dividido em 5 módulos:<br>
@@ -10,7 +10,9 @@ Ele é dividido em 5 módulos:<br>
 - ReactJS
 - React Native
 
-## Ferramenta utilizada
+## :toolbox: Ferramenta's utilizada's
 - Visual Studio Code
+- Node
 
-## :lock: Desenvolvido por <a href="https://www.linkedin.com/in/danhpaiva/">Daniel Paiva</a>
+## :lock: 
+Desenvolvido por <a href="https://www.linkedin.com/in/danhpaiva/">Daniel Paiva</a>
