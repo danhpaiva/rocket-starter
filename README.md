@@ -1,4 +1,4 @@
-# :rocket: Curso Starter da Rocketseat
+# 🚀 Curso Starter da Rocketseat
 
 ## :page_facing_up: Descrição
 
